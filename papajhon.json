@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "author": "Juan Perez",
+            "date": "2022-06-01T12:30:00Z",
+            "content": "Este es mi primer post en el foro. Espero aprender mucho aquí.",
+            "tags": [
+                "presentación",
+                "bienvenida"
+            ]
+        },
+        {
+            "author": "Maria Rodriguez",
+            "date": "2022-05-31T10:15:00Z",
+            "content": "¿Alguien ha usado la última versión de Go? ¿Qué opinan?",
+            "tags": [
+                "Go",
+                "versión"
+            ]
+        }
+    ]
+}
